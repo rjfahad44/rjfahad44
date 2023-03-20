@@ -30,6 +30,31 @@
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
+I have 2 years of professional experience in mobile application development including android native.
+
+My skills include:
+
+Working knowledge with Android Studio, Kotlin, Java,  SQLite, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
+
+• Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
+
+ • Familiar with Git (GitHub, Bitbucket, GitLab) and CI/ CD pipeline.
+
+• Working knowledge in Dart & Flutter Framework,
+architectures, trends, and emerging technologies.
+
+ • Solid understanding of the full mobile app development life cycle.
+
+• Ensuring that the construction and presentation of the app are congruent with the company's standards.
+
+• Proofreading app code and correcting mistakes before each app is released. 
+
+• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+
+• Identify and correct bugs, and fixed properly.
+
+• Maintain quality and ensure responsiveness of applications.
+
 - :telescope: I’m working as a Android Developer and contributing to various android applications.
 
 - :seedling: Exploring Technical Content Writing.
