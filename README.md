@@ -32,7 +32,7 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 I have 2 years of professional experience in mobile application development including android native.
 
-My skills include:
+### :woman_technologist: My skills include :
 
 Working knowledge with Android Studio, Kotlin, Java,  SQLite, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
 
