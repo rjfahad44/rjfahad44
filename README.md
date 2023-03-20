@@ -26,13 +26,13 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 👨‍💻: About Me :
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
 I have 2 years of professional experience in mobile application development including android native.
 
-### :woman_technologist: My skills include :
+### 👨‍💻: My skills include :
 
 Working knowledge with Android Studio, Kotlin, Java,  SQLite, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
 
