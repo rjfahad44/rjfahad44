@@ -26,14 +26,15 @@
 
 ---
 
-### 👨‍💻: About Me :
+### 👨🏻‍💻: About Me :
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
 I have 2 years of professional experience in mobile application development including android native.
 
-### 👨‍💻: My skills include :
+### 💡: My skills include :
 
+<div>
 Working knowledge with Android Studio, Kotlin, Java,  SQLite, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
 
 • Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
@@ -63,7 +64,8 @@ architectures, trends, and emerging technologies.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
 
-
+</div>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
