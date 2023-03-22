@@ -98,14 +98,11 @@ architectures, trends, and emerging technologies.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align = "center">
-  <a href="https://github.com/rjfahad44">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-  
-  <div align = "center">
-    <img align="center" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
-  </div>
+</div>
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
 
 ---
@@ -113,5 +110,7 @@ architectures, trends, and emerging technologies.
 ### :fire: My Stats :
 <div align = "center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
