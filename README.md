@@ -121,7 +121,7 @@ architectures, trends, and emerging technologies.
 <div align = "center">
   
   <a href="https://github.com/rjfahad44/">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?username=rjfahad44&theme=dark&background=000000"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
   </a></br>
   
   <a href="https://github.com/rjfahad44/">
