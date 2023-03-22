@@ -27,6 +27,7 @@
   
 </div>
 
+
 ---
 
 ### 👨🏻‍💻: About Me :
@@ -34,6 +35,7 @@
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
 I have 2+ years of professional experience in mobile application development including android native.
+
 
 ---
 
@@ -70,6 +72,7 @@ architectures, trends, and emerging technologies.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
 
 </div>
+
   
 ---
 
@@ -93,6 +96,7 @@ architectures, trends, and emerging technologies.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -107,15 +111,17 @@ architectures, trends, and emerging technologies.
   <a href="https://github.com/rjfahad44/">
     <img height="100em" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
   </a>
-</div
+</div>
+
 
 ---
 
 ### :fire: My Stats :
+
 <div align = "center">
   
   <a href="https://github.com/rjfahad44/">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?username=rjfahad44&theme=dark&background=000000"/>
   </a></br>
   
   <a href="https://github.com/rjfahad44/">
