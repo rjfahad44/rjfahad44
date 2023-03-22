@@ -121,11 +121,11 @@ architectures, trends, and emerging technologies.
 <div align = "center">
   
   <a href="https://github.com/rjfahad44/">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
   </a>
-  </br></br>
+ 
   <a href="https://github.com/rjfahad44/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark"/>
   </a>
   
 </div>
