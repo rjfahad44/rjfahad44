@@ -110,9 +110,11 @@ architectures, trends, and emerging technologies.
   </a>
 </div>
 
+<div align = "center">
   <a href="https://github.com/rjfahad44/">
     <img height="100em" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
   </a>
+</div>
 
 
 ---
