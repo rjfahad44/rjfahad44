@@ -98,8 +98,12 @@ architectures, trends, and emerging technologies.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align = "center">
+  <a href="https://github.com/rjfahad44/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    </a>
+  <a href="https://github.com/rjfahad44/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
@@ -110,22 +114,20 @@ architectures, trends, and emerging technologies.
 ### :fire: My Stats :
 <div align = "center">
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000)]
-  (https://git.io/streak-stats)
+  <a href="https://github.com/rjfahad44/">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
+  </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark)]
-  (https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/rjfahad44/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark"/>
+  </a>
+  
+  
+  
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-  <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=rjfahad44&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=rjfahad44&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=rjfahad44&show_icons=true" />
-</picture>
