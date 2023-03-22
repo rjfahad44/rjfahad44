@@ -107,11 +107,12 @@ architectures, trends, and emerging technologies.
     </a>
   <a href="https://github.com/rjfahad44/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia"/>
-  </a></br>
+  </a>
+</div>
+
   <a href="https://github.com/rjfahad44/">
     <img height="100em" src= "https://github-profile-trophy.vercel.app/?username=rjfahad44&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
   </a>
-</div>
 
 
 ---
