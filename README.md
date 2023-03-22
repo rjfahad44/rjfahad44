@@ -116,18 +116,10 @@ architectures, trends, and emerging technologies.
   
   <a href="https://github.com/rjfahad44/">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
-  </a>
+  </a></br>
   
   <a href="https://github.com/rjfahad44/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark"/>
   </a>
-  
-  
-  
-  
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
