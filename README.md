@@ -86,7 +86,7 @@ architectures, trends, and emerging technologies.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/retrofit.png" title="Retrofit2" alt="Retrofit2" width="100" height="100"/>&nbsp;
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/c%2B%2B.jpg" title="C++" alt="C++" width="100" height="100"/>&nbsp;
-  
+  --
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/opencv.png" title="openCv" alt="openCv" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/analytics.png" title="Analytics" alt="Analytics" width="100" height="100"/>&nbsp;
@@ -94,7 +94,7 @@ architectures, trends, and emerging technologies.
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/postman.png" title="Postman"  alt="Postman" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp;
-  
+  ---
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
   
 </div>
