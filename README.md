@@ -126,7 +126,7 @@ architectures, trends, and emerging technologies.
   </a>
  
   <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight"/>
   </a>
   
 </div>
