@@ -19,8 +19,6 @@
     </a>
   </div>
 
-
-
 <h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
   
   <div align="center">
@@ -98,7 +96,6 @@ architectures, trends, and emerging technologies.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
   
 </div>
-
 
 
 ---
