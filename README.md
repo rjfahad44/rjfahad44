@@ -42,7 +42,7 @@ I have 2.5+ years of professional experience in mobile application development i
 ### 💡: My skills include :
 
 <div>
-Working knowledge with Android Studio, Kotlin, Java,  SQLite, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
+Working knowledge with Android Studio, Kotlin, Java,  SQLite, Room Database, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
 
 • Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
 
