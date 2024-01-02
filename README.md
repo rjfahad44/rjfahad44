@@ -35,7 +35,7 @@
 
 I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
-I have 2.9+ years of professional experience in mobile application development including android native.
+I have 3+ years of professional experience in mobile application development including android native.
 
 
 
