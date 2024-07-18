@@ -46,7 +46,7 @@ I am a passionate Mobile Apps developer with 3.5+ years of experience in native 
 ### 💡: My skills include :
 
 <div>
-Working knowledge with Android Studio, Kotlin, Java,  SQLite, Room Database, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
+Working knowledge with Android Studio, Android, IOS, Kotlin, Flutter, Dart, Java, SQLite, Room Database, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
 
 • Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
 
