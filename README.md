@@ -35,7 +35,7 @@
 
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
 
-I am a passionate Mobile Apps developer with 3.5+ years of experience in native Android development and 1.5+ years in mobile application development using Flutter. As an open-source enthusiast, I thrive on solving challenging problems, working with new technologies, and continuously learning. I excel at finding bugs and pride myself on being a quick learner. My coding philosophy revolves around maintaining strict coding conventions and writing self-descriptive code. I am friendly, team-oriented, and always aim to be an awesome collaborator.
+I am a passionate Mobile Apps developer with 4 years plus of experience in native Android development and 2 years plus in mobile application development using Flutter. As an open-source enthusiast, I thrive on solving challenging problems, working with new technologies, and continuously learning. I excel at finding bugs and pride myself on being a quick learner. My coding philosophy revolves around maintaining strict coding conventions and writing self-descriptive code. I am friendly, team-oriented, and always aim to be an awesome collaborator.
 
 
 
