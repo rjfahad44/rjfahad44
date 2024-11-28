@@ -109,11 +109,11 @@ architectures, trends, and emerging technologies.
 <div align = "center">
   
   <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
     </a>
   
   <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=blueberry"/>
   </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
@@ -130,11 +130,11 @@ architectures, trends, and emerging technologies.
 <div align = "center">
   
   <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=dark&background=000000"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=blueberry"/>
   </a>
  
   <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=blueberry"/>
   </a>
   
 </div>
