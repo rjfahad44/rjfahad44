@@ -107,8 +107,6 @@ architectures, trends, and emerging technologies.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align = "center">
-
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&bg_color=0d1117)
   
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=blueberry)
