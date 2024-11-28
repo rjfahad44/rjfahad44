@@ -107,15 +107,11 @@ architectures, trends, and emerging technologies.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align = "center">
-  
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-    </a>
-  
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=blueberry"/>
-  </a>
 
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&bg_color=gradient&bg_color1=0d1117&bg_color2=1e3a8a)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=blueberry&bg_color=gradient&bg_color1=0d1117&bg_color2=1e3a8a)
+
+  
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
