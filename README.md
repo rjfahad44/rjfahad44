@@ -115,6 +115,10 @@ architectures, trends, and emerging technologies.
   <a href="https://github.com/rjfahad44/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia"/>
   </a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
   
 </div>
 
