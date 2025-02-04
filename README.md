@@ -81,14 +81,26 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 Here are a few notable projects I've worked on:
 
-### 📱 **[Music And Podcast App](https://play.google.com/store/apps/details?id=com.gm.shadhin&pcampaignid=web_share)**
-- A full-featured **Music** application built with **Android SDK** and **Firebase** for authentication, database, and push notifications.
+### 🎵 **[Shadhin Music App](https://play.google.com/store/apps/details?id=com.gm.shadhin&pcampaignid=web_share)**
+- **Technologies Used:** Native (Kotlin with Jetpack Compose), Android SDK.
+- **Description:** Shadhin Music is Bangladesh’s leading music application, offering an extensive collection of Bangla music, podcasts, audiobooks, and music videos. With a global reach in over 190 countries, the app provides users with free access to thousands of tracks, making Bangla music and audio content more accessible and popular worldwide.
 
-### 🌐 **[E-Commerce App](https://play.google.com/store/apps/details?id=com.hishabee.business&pcampaignid=web_share)**
-- A **e-commerce** app that integrates with **Google Maps** API to provide travel and navigation assistance to users.
+### 🌐 **[Business Management App](https://play.google.com/store/apps/details?id=com.hishabee.business&pcampaignid=web_share)**
+- **Technologies Used:** Native (Kotlin).
+- **Description:** A robust business management solution designed for ease of use in handling daily transactions. With over 300,000 active users in Bangladesh, the app helps business owners track financial records, manage accounts, and ensure the accuracy of transactions, streamlining business operations.
+
+### 🌐 **[Paikari App](https://play.google.com/store/apps/details?id=com.hishabee.business&pcampaignid=web_share)**
+- **Technologies Used:** Native (Kotlin).
+- **Description:** Paikari is a comprehensive accounting app specifically designed for wholesalers. The app allows users to manage transactions, track profits and losses, and organize dealer or distribution accounts, ensuring smooth and efficient wholesale business operations.
+
+### 🏦 **[Al-Quran App](https://play.google.com/store/apps/details?id=work.opale.mydocs&pcampaignid=web_share)**
+- **Technologies Used:** Native (Java)
+- **Description:** Aimed at the Muslim community, particularly in Bangladesh, this Islamic app offers easy access to the Al-Quran. Designed for seamless reading and listening, the app provides users with convenient access to the holy text on their mobile devices.
 
 ### 🏦 **[Document Organizer App](https://play.google.com/store/apps/details?id=work.opale.mydocs&pcampaignid=web_share)**
-- A **Native(Kotlin)**-based mobile banking app with **Firebase** integration for user authentication and real-time transactions.
+- **Technologies Used:** Native (Kotlin)
+- **Description:** The Document Organizer app enables users to digitize, organize, and securely store important documents such as invoices, prescriptions, bank statements, business cards, and contracts. By using the camera or scanner, users can easily capture, categorize, and retrieve documents, ensuring they never lose track of essential paperwork.
+
 
 ---
 
