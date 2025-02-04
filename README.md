@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Fahad 👋
+# Hi there, I'm Muhammad Fahad Alam 👋
 
 ## 🚀 About Me
 
@@ -24,7 +24,7 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ### Frontend Development
 - **Android Development** (Kotlin, Java)
-- **Cross-platform** with **Flutter**
+- **Cross-platform** with **KMP** and **Flutter**
   
 ### Backend & Cloud
 - **Firebase** (Authentication, Firestore, FCM)
@@ -49,7 +49,7 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ## 🌱 Currently Focused On
 
-- **Mastering Flutter** for cross-platform mobile development.
+- **Mastering Flutter and KMP** for cross-platform mobile development.
 - **Exploring** backend cloud services to scale apps effectively (Firebase, AWS).
 - **Building** feature-rich applications with **Firebase** integration (e.g., Firebase Cloud Messaging, Firestore).
 - Contributing to **open-source** projects and writing **technical blogs** on mobile development.
@@ -93,8 +93,11 @@ Here are a few notable projects I've worked on:
 Feel free to reach out to me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
+- 
 - [Twitter](https://twitter.com/rjfahad44)
+- 
 - [Codeforces](https://codeforces.com/profile/Md.Fahad)
+- 
 - [Leetcode](https://leetcode.com/Fahad22/)
 
 ---
@@ -119,7 +122,9 @@ Feel free to reach out to me through the following platforms:
 
 <div align="center">
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
+  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
 </div>
 
@@ -129,12 +134,19 @@ Feel free to reach out to me through the following platforms:
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
+  
   <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/retrofit.png" title="Retrofit2" alt="Retrofit2" width="100" height="100"/>&nbsp;
+  
 </div>
 
 ---
