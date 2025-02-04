@@ -89,7 +89,7 @@ Here are a few notable projects I've worked on:
 - **Technologies Used:** Native (Kotlin).
 - **Description:** A robust business management solution designed for ease of use in handling daily transactions. With over 300,000 active users in Bangladesh, the app helps business owners track financial records, manage accounts, and ensure the accuracy of transactions, streamlining business operations.
 
-### 📦 **[Paikari App](https://play.google.com/store/apps/details?id=com.hishabee.business&pcampaignid=web_share)**
+### 📦 **[Paikari App](https://play.google.com/store/apps/details?id=com.hishabee.paikari&pcampaignid=web_share)**
 - **Technologies Used:** Native (Kotlin).
 - **Description:** Paikari is a comprehensive accounting app specifically designed for wholesalers. The app allows users to manage transactions, track profits and losses, and organize dealer or distribution accounts, ensuring smooth and efficient wholesale business operations.
 
