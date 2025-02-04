@@ -100,6 +100,7 @@ Here are a few notable projects I've worked on:
 Feel free to reach out to me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
+- [Facebook](https://web.facebook.com/rjfahad44)
 - [Twitter](https://twitter.com/rjfahad44)
 - [Codeforces](https://codeforces.com/profile/Md.Fahad)
 - [Leetcode](https://leetcode.com/Fahad22/)
