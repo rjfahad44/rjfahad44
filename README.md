@@ -123,12 +123,14 @@ Feel free to reach out to me through the following platforms:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
+<div align = "center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
 </div>
 
 ---
