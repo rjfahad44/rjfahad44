@@ -100,7 +100,7 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 I'm always open to connecting! Feel free to reach out through any of the platforms below:
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -117,8 +117,6 @@ I'm always open to connecting! Feel free to reach out through any of the platfor
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
-
----
 
 Let's chat, collaborate, or share knowledge! Looking forward to connecting! 😊
 
