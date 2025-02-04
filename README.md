@@ -1,134 +1,144 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://web.facebook.com/rjfahad44">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://twitter.com/rjfahad44">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://codeforces.com/profile/Md.Fahad">
-      <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-    </a>
-    <a href="https://leetcode.com/Fahad22/">
-      <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-    </a>
-  </div>
+# Hi there, I'm Md. Fahad 👋
 
-<h1> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+## 🚀 About Me
+
+I'm a **Mobile Application Developer** with over **4 years of experience** in **native Android development** and **2+ years** of expertise in **Flutter**. Passionate about delivering high-quality applications, I am dedicated to solving complex problems and improving the user experience through clean, maintainable code.
+
+Currently, I'm focused on building mobile applications using **Kotlin**, **Flutter**, and **Firebase**. I thrive on exploring new technologies and am always eager to expand my knowledge and contribute to open-source projects.
+
+---
+
+## 💻 Key Skills
+
+- **Languages**: Kotlin, Java, Dart, Python, C++
+- **Frameworks**: Android SDK, Flutter, Retrofit2
+- **Databases**: SQLite, Firebase Firestore, Room
+- **Tools**: Android Studio, IntelliJ, Visual Studio Code, Postman
+- **Version Control**: Git, GitHub, Bitbucket, GitLab
+- **Cloud & Services**: Firebase (Authentication, Firestore, FCM, Crashlytics), AWS
+- **Other**: Google Maps API, AdMob, Stripe, Push Notifications, Unit Testing (JUnit, Espresso)
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend Development
+- **Android Development** (Kotlin, Java)
+- **Cross-platform** with **Flutter**
   
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-  
+### Backend & Cloud
+- **Firebase** (Authentication, Firestore, FCM)
+- **AWS** (S3, Lambda, DynamoDB)
+- **RESTful APIs** (Retrofit, OkHttp)
+
+### Databases
+- **SQLite**
+- **Room Database**
+- **Firebase Firestore**
+
+### Tools & Utilities
+- **Git** (GitHub, GitLab, Bitbucket)
+- **CI/CD**: GitHub Actions, Bitrise, Jenkins
+- **Postman** (API Testing)
+
+### Testing
+- **JUnit**, **Espresso**
+- **Firebase Crashlytics**
+
+---
+
+## 🌱 Currently Focused On
+
+- **Mastering Flutter** for cross-platform mobile development.
+- **Exploring** backend cloud services to scale apps effectively (Firebase, AWS).
+- **Building** feature-rich applications with **Firebase** integration (e.g., Firebase Cloud Messaging, Firestore).
+- Contributing to **open-source** projects and writing **technical blogs** on mobile development.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  ![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia)
 </div>
 
+---
+
+## 📚 Latest Projects
+
+Here are a few notable projects I've worked on:
+
+### 📱 **[Android Shopping App](https://github.com/rjfahad44/android-shopping-app)**
+- A full-featured **e-commerce** application built with **Android SDK** and **Firebase** for authentication, database, and push notifications.
+
+### 🌐 **[Travel Guide App](https://github.com/rjfahad44/travel-guide-app)**
+- A cross-platform **Flutter** app that integrates with **Google Maps** API to provide travel and navigation assistance to users.
+
+### 🏦 **[Banking App](https://github.com/rjfahad44/banking-app)**
+- A **Flutter**-based mobile banking app with **Firebase** integration for user authentication and real-time transactions.
 
 ---
 
-### 👨🏻‍💻: About Me :
+## 🎯 My Goals
 
-I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dahak, Bangladesh.
-
-I am a passionate Mobile Apps developer with 4 years plus of experience in native Android development and 2 years plus in mobile application development using Flutter. As an open-source enthusiast, I thrive on solving challenging problems, working with new technologies, and continuously learning. I excel at finding bugs and pride myself on being a quick learner. My coding philosophy revolves around maintaining strict coding conventions and writing self-descriptive code. I am friendly, team-oriented, and always aim to be an awesome collaborator.
-
-
-
-
+- **Continuous learning**: Always staying up-to-date with the latest trends in Android, Kotlin, Flutter, and mobile development.
+- **Open-source contributions**: Contributing to the **Flutter** and **Android** ecosystems and learning from other developers.
+- **Writing technical blogs**: Sharing knowledge about **Android** development, **Flutter**, and **mobile app best practices**.
 
 ---
 
-### 💡: My skills include :
+## 📞 Let's Connect!
 
-<div>
-Working knowledge with Android Studio, Android, IOS, Kotlin, Flutter, Dart, Java, SQLite, Room Database, RESTful APIs, Firebase (Authentication, Database, Storage, FCM, Crashlytics, Cloud Functions, Dynamic Links), Google Maps(Routes and directions).
+Feel free to reach out to me through the following platforms:
 
-• Working experience with third-party libraries, Payment Gateway like Stipe, and APIs.
+- [LinkedIn](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
+- [Twitter](https://twitter.com/rjfahad44)
+- [Codeforces](https://codeforces.com/profile/Md.Fahad)
+- [Leetcode](https://leetcode.com/Fahad22/)
 
- • Familiar with Git (GitHub, Bitbucket, GitLab) and CI/ CD pipeline.
+---
 
-• Working knowledge in Dart & Flutter Framework,
-architectures, trends, and emerging technologies.
+## ⚡ Fun Facts
 
- • Solid understanding of the full mobile app development life cycle.
+- I love solving problems on **LeetCode** and **Codeforces**.
+- I enjoy reading tech blogs and keeping up with the latest trends in mobile development.
+- In my free time, I experiment with building side projects, such as **mini-games** and **utility apps**.
 
-• Ensuring that the construction and presentation of the app are congruent with the company's standards.
+---
 
-• Proofreading app code and correcting mistakes before each app is released. 
+## 👨‍💻 My Work
 
-• Collaborating with UI and UX Designers, as well as Software Testers, to ensure that each app is presentable and in perfect working order.
+- **Freelance Mobile App Developer**: Developing and delivering custom mobile solutions for clients across various industries, including **e-commerce**, **finance**, and **social media**.
+- **Collaborating with UI/UX designers** to ensure a seamless user experience and app flow.
+- **Bug fixing and code review**: Ensuring the highest quality standards by performing thorough testing and review cycles.
 
-• Identify and correct bugs, and fixed properly.
+---
 
-• Maintain quality and ensure responsiveness of applications.
+## 📊 GitHub Analytics
 
-- :telescope: I’m working as a Android Developer and contributing to various android applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leedcode and Codeforces, and read tech articles in GeeksforGeeks.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
-
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
 </div>
 
-  
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🔧 My Tech Stack
 
-<div align = "center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/retrofit.png" title="Retrofit2" alt="Retrofit2" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/c%2B%2B.jpg" title="C++" alt="C++" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/opencv.png" title="openCv" alt="openCv" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/analytics.png" title="Analytics" alt="Analytics" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/admob.png" title="AdMob" alt="AdMob" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/postman.png" title="Postman"  alt="Postman" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
-  
+  <img src="https://github.com/rjfahad44/My-Skils-Logo/blob/main/retrofit.png" title="Retrofit2" alt="Retrofit2" width="100" height="100"/>&nbsp;
 </div>
-
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+Thanks for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out. Happy coding! 👨‍💻
 
-<div align = "center">
-  
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=rjfahad44&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rjfahad44&layout=compact&langs_count=8&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjfahad44&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjfahad44&theme=blueberry)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjfahad44&theme=blueberry)
-  
-</div>
-
-
----
-
-### :fire: My Stats :
-
-<div align = "center">
-  
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=blueberry"/>
-  </a>
- 
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=blueberry"/>
-  </a>
-  
-</div>
 
