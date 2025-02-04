@@ -100,7 +100,9 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 Feel free to reach out to me through the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/fahad-alam-21b8601a9/)
+- [LinkedIn](https://www.linkedin.com/in/fahad-alam-21b8601a9/) <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 - [Facebook](https://web.facebook.com/rjfahad44)
 - [Twitter](https://twitter.com/rjfahad44)
 - [Codeforces](https://codeforces.com/profile/Md.Fahad)
