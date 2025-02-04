@@ -100,21 +100,22 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 Feel free to reach out to me through the following platforms:
 
-<div align = "center">- <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
+<div align = "center"> <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a></div>
-- <a href="https://web.facebook.com/rjfahad44">
+  </a>
+ <a href="https://web.facebook.com/rjfahad44">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-- <a href="https://twitter.com/rjfahad44">
+ <a href="https://twitter.com/rjfahad44">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-- <a href="https://codeforces.com/profile/Md.Fahad">
+ <a href="https://codeforces.com/profile/Md.Fahad">
       <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
     </a>
-- <a href="https://leetcode.com/Fahad22/">
+ <a href="https://leetcode.com/Fahad22/">
       <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
+    </div>
 
 ---
 
