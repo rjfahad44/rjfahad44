@@ -77,18 +77,18 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ---
 
-@## 📚 Latest Projects
+## 📚 Latest Projects
 
-@Here are a few notable projects I've worked on:
+Here are a few notable projects I've worked on:
 
-### 📱 **[Android Shopping App](https://github.com/rjfahad44/android-shopping-app)**
-- A full-featured **e-commerce** application built with **Android SDK** and **Firebase** for authentication, database, and push notifications.
+### 📱 **[Music And Podcast App](https://play.google.com/store/apps/details?id=com.gm.shadhin&pcampaignid=web_share)**
+- A full-featured **Music** application built with **Android SDK** and **Firebase** for authentication, database, and push notifications.
 
-### 🌐 **[Travel Guide App](https://github.com/rjfahad44/travel-guide-app)**
-- A cross-platform **Flutter** app that integrates with **Google Maps** API to provide travel and navigation assistance to users.
+### 🌐 **[E-Commerce App](https://play.google.com/store/apps/details?id=com.hishabee.business&pcampaignid=web_share)**
+- A **e-commerce** app that integrates with **Google Maps** API to provide travel and navigation assistance to users.
 
-### 🏦 **[Banking App](https://github.com/rjfahad44/banking-app)**
-- A **Flutter**-based mobile banking app with **Firebase** integration for user authentication and real-time transactions.
+### 🏦 **[Document Organizer App](https://play.google.com/store/apps/details?id=work.opale.mydocs&pcampaignid=web_share)**
+- A **Native(Kotlin)**-based mobile banking app with **Firebase** integration for user authentication and real-time transactions.
 
 ---
 
