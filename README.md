@@ -100,9 +100,9 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 Feel free to reach out to me through the following platforms:
 
-- <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
+<div align = "center">- <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a></div>
 - <a href="https://web.facebook.com/rjfahad44">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
