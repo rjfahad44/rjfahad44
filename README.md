@@ -104,18 +104,23 @@ I'm always open to connecting! Feel free to reach out through any of the platfor
   <a href="https://www.linkedin.com/in/fahad-alam-21b8601a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
   <a href="https://web.facebook.com/rjfahad44" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  
   <a href="https://twitter.com/rjfahad44" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
   <a href="https://codeforces.com/profile/Md.Fahad" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
+  
   <a href="https://leetcode.com/Fahad22/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+  
 </div>
 
 Let's chat, collaborate, or share knowledge! Looking forward to connecting! 😊
