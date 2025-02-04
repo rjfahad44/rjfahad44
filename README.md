@@ -61,22 +61,6 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ---
 
-## 📈 GitHub Stats
-
-<div align = "center">
-  
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=blueberry"/>
-  </a>
- 
-  <a href="https://github.com/rjfahad44/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=blueberry"/>
-  </a>
-  
-</div>
-
----
-
 ## 📚 Latest Projects
 
 **Here are a few notable projects I've worked on, which are currently available on the Play Store:**
@@ -137,6 +121,22 @@ Feel free to reach out to me through the following platforms:
 - **Freelance Mobile App Developer**: Developing and delivering custom mobile solutions for clients across various industries, including **e-commerce**, **finance**, and **social media**.
 - **Collaborating with UI/UX designers** to ensure a seamless user experience and app flow.
 - **Bug fixing and code review**: Ensuring the highest quality standards by performing thorough testing and review cycles.
+
+---
+
+## 📈 GitHub Stats
+
+<div align = "center">
+  
+  <a href="https://github.com/rjfahad44/">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=rjfahad44&theme=blueberry"/>
+  </a>
+ 
+  <a href="https://github.com/rjfahad44/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjfahad44&hide=contribs,prs&count_private=true&show_icons=true&theme=blueberry"/>
+  </a>
+  
+</div>
 
 ---
 
