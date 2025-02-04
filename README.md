@@ -93,7 +93,7 @@ Here are a few notable projects I've worked on:
 - **Technologies Used:** Native (Kotlin).
 - **Description:** Paikari is a comprehensive accounting app specifically designed for wholesalers. The app allows users to manage transactions, track profits and losses, and organize dealer or distribution accounts, ensuring smooth and efficient wholesale business operations.
 
-### 📖 **[Al-Quran App](https://play.google.com/store/apps/details?id=work.opale.mydocs&pcampaignid=web_share)**
+### 📖 **[Al-Quran App](https://play.google.com/store/apps/details?id=com.technobd.alquran&pcampaignid=web_share)**
 - **Technologies Used:** Native (Java)
 - **Description:** Aimed at the Muslim community, particularly in Bangladesh, this Islamic app offers easy access to the Al-Quran. Designed for seamless reading and listening, the app provides users with convenient access to the holy text on their mobile devices.
 
