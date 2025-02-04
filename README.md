@@ -77,9 +77,9 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ---
 
-## 📚 Latest Projects
+@## 📚 Latest Projects
 
-Here are a few notable projects I've worked on:
+@Here are a few notable projects I've worked on:
 
 ### 📱 **[Android Shopping App](https://github.com/rjfahad44/android-shopping-app)**
 - A full-featured **e-commerce** application built with **Android SDK** and **Firebase** for authentication, database, and push notifications.
