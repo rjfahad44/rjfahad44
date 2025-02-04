@@ -79,7 +79,7 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 
 ## 📚 Latest Projects
 
-Here are a few notable projects I've worked on:
+**Here are a few notable projects I've worked on, which are currently available on the Play Store:**
 
 ### 🎵 **[Shadhin Music App](https://play.google.com/store/apps/details?id=com.gm.shadhin&pcampaignid=web_share)**
 - **Technologies Used:** Native (Kotlin with Jetpack Compose), Android SDK.
