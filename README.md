@@ -85,7 +85,6 @@ Currently, I'm focused on building mobile applications using **Kotlin**, **Flutt
 - **Technologies Used:** Native (Kotlin)
 - **Description:** The Document Organizer app enables users to digitize, organize, and securely store important documents such as invoices, prescriptions, bank statements, business cards, and contracts. By using the camera or scanner, users can easily capture, categorize, and retrieve documents, ensuring they never lose track of essential paperwork.
 
-
 ---
 
 ## 🎯 My Goals
