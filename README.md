@@ -5,6 +5,12 @@
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 
+---
+
+![Github Streak](./dist/github-contribution-grid-snake.svg)
+
+---
+
 ## 🚀 About Me
 
 I'm a **Mobile Application Developer** with over **4 years of experience** in **native Android development** and **2+ years** of expertise in **Flutter**. Passionate about delivering high-quality applications, I am dedicated to solving complex problems and improving the user experience through clean, maintainable code.
