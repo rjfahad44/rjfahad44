@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Mobile Application Developer** with over **4 years of experience** in **native Android development** and **2+ years** of expertise in **Flutter**. Passionate about delivering high-quality applications, I am dedicated to solving complex problems and improving the user experience through clean, maintainable code.
+I'm a **Mobile Application Developer** with over **4 years of experience** in **native Android development** and **2+ years** of expertise in **Flutter + KMP**. Passionate about delivering high-quality applications, I am dedicated to solving complex problems and improving the user experience through clean, maintainable code.
 
 Currently, I'm focused on building mobile applications using **Kotlin**, **Flutter**. I thrive on exploring new technologies and am always eager to expand my knowledge and contribute to open-source projects.
 
